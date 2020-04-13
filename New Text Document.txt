@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "SAPHIRE.COM"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- 1.0 -->
+
+  <name>CAT RUN </name>
+
+  <description>
+      YOU RUN.
+  </description>
+
+  <author href="https://SAPHIRE.COM" email="support@jodyism101@gmail.com">
+      SAPHIRE KIRBY
+  </author>
+icon src='icon.png'/>
+</widget>
